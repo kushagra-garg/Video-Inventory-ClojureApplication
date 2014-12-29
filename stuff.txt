@@ -1,0 +1,1 @@
+[{:movie "x-men", :price 10, :copies 3, :id 1} {:movie "Spider man 1", :price 10, :copies 1, :id 2} {:movie "Hulk", :price 8, :copies 5, :id 3} {:movie "Avenger", :price 10, :copies 7, :id 4} {:movie "Boy Hood", :price 20, :copies 8, :id 5} {:movie "Alien", :price 5, :copies 2, :id 6}]
